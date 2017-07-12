@@ -1,0 +1,40 @@
+body {
+  background: red;
+  text-align:center;
+}
+.center{
+  margin: 0 auto;
+  bottom: 10%;
+  left: 40%;
+}
+#qt{
+  margin:20px
+}
+h1{
+  color: white;
+  margin: 0px;
+  opacity: 50%;
+}
+
+.maindiv{
+  max-width:600px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: white;
+  margin: 40px auto;
+  min-height: 200px;
+  position:relative;
+}
+#btn {
+  cursor: pointer;
+  margin: 20px;
+}
+#stripes{
+  height:100vh;
+  margin: 0px, 0px, 0px, 0px;
+  padding: 0px
+}
+footer{
+  text-align:right;
+  margin-right: 10%
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Random-Quote-Generator",
+  "version": "1.0.0",
+  "description": "Random Quote Generator with shifting background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acjenkins6440/Random-Quote-Generator/"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acjenkins6440/Random-Quote-Generator/issues"
+  },
+  "homepage": "https://github.com/Acjenkins6440/Random-Quote-Generator#readme",
+  "devDependencies": {
+    "serve": "^6.0.1"
+  }
+}
